@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const kApiKey = 'a5541a7c35dadb7d5f98992de0160018';
+const kApiKey = 'APIKEY';
 const kOpenWeatherMapURL = 'http://api.openweathermap.org/data/2.5/weather';
 
 const kTempTextStyle = TextStyle(
